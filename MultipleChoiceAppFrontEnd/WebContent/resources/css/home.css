@@ -1,0 +1,88 @@
+body {
+	width: 98%;
+}
+
+.logo {
+	width: 45%;
+}
+
+.textHeader {
+	font-size: 24px;
+	color: #ee7c04;
+	margin-left: 55px;
+}
+
+.timeDate {
+	padding: 7px
+}
+
+.title {
+	background: #ee7c04;
+	padding: 5px 0px;
+	text-align: center;
+	margin-bottom: 25px;
+	border: 1px black solid;
+}
+
+.contentAnswer {
+	padding: 35px 70px;
+}
+
+.childcontentAnswer {
+	padding: 15px 0px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #ee7c04;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.countdown {
+	margin: 0 auto;
+	max-width: 350px;
+}
+
+.countdown .square {
+	display: inline-block;
+}
+
+.countdown .digits {
+	font-size: 15px;
+	background: #fff;
+	color: #000;
+	border-radius: 5px;
+}
+
+.btn {
+	border: 1px black solid;
+	background: #ee7c04;
+	padding: 10px 35px;
+}
+
+.modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 300px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0, 0, 0); /* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+.modal-content {
+	background-color: #fefefe;
+	margin: auto;
+	border: 1px solid black;
+	width: 40%;
+	border-radius: 0px
+}

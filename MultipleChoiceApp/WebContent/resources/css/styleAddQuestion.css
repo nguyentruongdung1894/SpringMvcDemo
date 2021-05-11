@@ -1,0 +1,174 @@
+.form-style-1 .field-select {
+	width: 79%;
+}
+
+.form-style-1 .field-textarea {
+	width: 79%;
+}
+
+.form-style-1 .field-textarea-left{
+	width: 100%;
+}
+.lableQ {
+	color: #5b9bd5;
+	width: 15%;
+}
+
+.btnadd {
+	float: left;
+	margin: 30px 85px;
+}
+
+.btnUpdate {
+	float: left;
+	margin: 30px 30px;
+}
+
+.lableAnswer {
+	float: left;
+	width: 25%;
+	padding-right: 5px;
+}
+
+.textareaA {
+	float: left;
+	width: 56%;
+	padding-right: 15px
+}
+
+.radioA {
+	float: left;
+	width: 15%
+}
+
+.fa-closeA {
+	float: left;
+}
+
+.divblock {
+	margin-top: 10px;
+	height: 93px;
+}
+
+.divnone {
+	margin-top: 10px;
+	height: 93px;
+	display: none;
+}
+
+.lbelLeft {
+	font-weight: bold;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 115px;
+	margin-left: 15px;
+}
+
+.lbelRight {
+	font-weight: bold;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 75px
+}
+
+.btnClick {
+	margin-left: 15px;
+	background: #5b9bd5;
+	border: none;
+	color: white;
+	padding: 10px 30px;
+}
+
+.form-style-1 input[type=submit], .form-style-1 input[type=button] {
+	background: #5b9bd5;
+	padding: 10px 30px;
+}
+
+.lableQ {
+	color: #5b9bd5;
+	width: 20%;
+}
+
+.lableA {
+	color: #5b9bd5;
+}
+
+.form-style-1 {
+	margin: 0 auto;
+	padding-left: 0px;
+	max-width: 550px;
+}
+
+.form-style-1 li {
+	padding: 0;
+	display: block;
+	list-style: none;
+	margin: 10px 0 0 0;
+}
+
+.form-style-1 label {
+	padding: 0px;
+	font-weight: bold;
+}
+
+.form-style-1 input[type=text], .form-style-1 input[type=date],
+	.form-style-1 input[type=datetime], .form-style-1 input[type=number],
+	.form-style-1 input[type=search], .form-style-1 input[type=time],
+	.form-style-1 input[type=url], .form-style-1 input[type=email],
+	textarea, select {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid black;
+	padding: 7px;
+	margin: 0px;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-ms-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	outline: none;
+}
+
+.form-style-1 input[type=text]:focus, .form-style-1 input[type=date]:focus,
+	.form-style-1 input[type=datetime]:focus, .form-style-1 input[type=number]:focus,
+	.form-style-1 input[type=search]:focus, .form-style-1 input[type=time]:focus,
+	.form-style-1 input[type=url]:focus, .form-style-1 input[type=email]:focus,
+	.form-style-1 textarea:focus, .form-style-1 select:focus {
+	-moz-box-shadow: 0 0 8px #88D5E9;
+	-webkit-box-shadow: 0 0 8px #88D5E9;
+	box-shadow: 0 0 8px #88D5E9;
+	border: 1px solid #88D5E9;
+}
+
+a {
+	text-decoration: underline
+}
+
+.form-style-1 .field-divided {
+	width: 49%;
+}
+
+.form-style-1 .field-textarea {
+	height: 100px;
+}
+
+.form-style-1 .field-textarea-left {
+	height: 50px;
+}
+
+.form-style-1 input[type=submit], .form-style-1 input[type=button] {
+	border: none;
+	color: #fff;
+}
+
+.form-style-1 input[type=submit]:hover, .form-style-1 input[type=button]:hover
+	{
+	background: #4691A4;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.form-style-1 .required {
+	color: red;
+}
